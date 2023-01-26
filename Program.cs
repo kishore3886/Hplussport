@@ -7,7 +7,6 @@ var builder = WebApplication.CreateBuilder(args);
 //this method gets called in run time. Use place to add services 
 
 builder.Services.AddControllers();
-
 builder.Services.AddDbContext<ShopContext>(options => options.UseInMemoryDatabase("MyShop"));
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

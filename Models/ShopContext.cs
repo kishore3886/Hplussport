@@ -1,12 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using HPlusSport.API.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Hplussport.API.Models
 {
     public class ShopContext : DbContext
     {
 
-        public ShopContext(DbContextOptions<ShopContext> options) :base (options) {   
-        }
+        public ShopContext(DbContextOptions<ShopContext> options) :base (options) {          }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
