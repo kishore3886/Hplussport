@@ -30,3 +30,14 @@ C:\Users\poosak\source\repos\Hplussport\Hplussport.API\obj\Debug\net6.0\refint\H
 C:\Users\poosak\source\repos\Hplussport\Hplussport.API\obj\Debug\net6.0\Hplussport.API.pdb
 C:\Users\poosak\source\repos\Hplussport\Hplussport.API\obj\Debug\net6.0\Hplussport.API.genruntimeconfig.cache
 C:\Users\poosak\source\repos\Hplussport\Hplussport.API\obj\Debug\net6.0\ref\Hplussport.API.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\poosak\source\repos\Hplussport\Hplussport.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
