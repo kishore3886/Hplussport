@@ -22,5 +22,23 @@
             }    
         }
 
+        public string SortBy { get; set; } = "Id";
+        public string _SortOrder { get; set; } = "asc";
+
+        public string SortOrder {
+            get
+            {
+
+                return _SortOrder;
+            }
+            set 
+            {
+                if(value == "asc" || value == "desc")
+                {
+                    _SortOrder=value;
+                }                             
+            }
+        }
+
     }
 }
